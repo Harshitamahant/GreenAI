@@ -1,3 +1,71 @@
-We have created this case study with the dataset of car purchase analysis
-we are 2 members the repository link of member 2 is as follows
-https://github.com/Divyanshuxoxo/GreenAi
+# 🌱 Green AI Project (Python)
+
+This repository contains a Green AI project built using Python, along with a case study on car purchase analysis. The aim of this project is to explore sustainable practices in AI while analyzing real-world data efficiently and responsibly.
+
+---
+
+## 🧠 Project 1: Green AI – Sustainable Machine Learning
+
+### 📝 Description
+
+Green AI focuses on creating environmentally sustainable AI solutions by reducing energy usage and computational cost. In this part of the project, we developed a lightweight, optimized model using Python, aiming to minimize resource consumption while maintaining performance.
+
+#### 🔍 Key Concepts
+- Model pruning & quantization
+- Transfer learning to reduce training time
+- Tracking carbon emissions with [CodeCarbon](https://mlco2.github.io/codecarbon/)
+- Performance vs. energy trade-off analysis
+
+#### ⚙️ Technologies Used
+- Python 3.x  
+- NumPy, Pandas  
+- Scikit-learn / PyTorch / TensorFlow  
+- Matplotlib / Seaborn  
+- CodeCarbon
+
+---
+
+## 🚗 Project 2: Car Purchase Analysis – Case Study
+
+### 📊 Description
+
+We created this case study using a **Car Purchase Dataset** to analyze and predict customer purchase behavior. The project focuses on extracting insights and applying machine learning models to understand purchasing patterns.
+
+#### 📌 Highlights
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Model training and evaluation
+- Visualizing key trends in customer behavior
+
+#### 🛠️ Tools & Libraries
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+
+---
+
+## 👥 Team Members
+
+This project was completed by two members during our internship.
+
+- **Member 1:** [Your Name](https://github.com/Harshitamahant/GreenAI/Case_Study) *(This repository)*  
+- **Member 2:** [Divyanshu](https://github.com/Divyanshuxoxo/GreenAi)
+
+You can also view the collaborative work and contributions in [Divyanshu's Repository](https://github.com/Divyanshuxoxo/GreenAi).
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+---
+
+📜 License
+This project is licensed under the MIT License.
+
+---
+
+🙌 Acknowledgments
+Thanks to our mentors and the internship program for guiding us through this learning journey.
+   

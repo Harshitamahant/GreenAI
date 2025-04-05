@@ -27,7 +27,10 @@ By applying these methods, we aim to show how AI can be made greener and more su
 - [CodeCarbon](https://mlco2.github.io/codecarbon/) *(for energy usage tracking)*
 
 ---
+📜 License
+This project is licensed under the [MIT License](LICENSE)
 
+---
 ## 📌 Features
 
 - 🔋 Energy-efficient machine learning workflows  

@@ -72,7 +72,7 @@ This project strives to:
 
 This project was created by:  
 - **Harshitamahant** [https://github.com/Harshitamahant]
-- **Divyanshuxoxo**[https://github.com/divyanshuxoxo]
+- **Divyanshudharmik**[https://github.com/divyanshuxoxo]
 
 ## 📜 License
 

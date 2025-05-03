@@ -1,48 +1,79 @@
-# 🌱 Green AI Project (Python)
+# 🌱 Green AI Project
 
-This project demonstrates the principles of **Green AI**—a sustainable approach to artificial intelligence that focuses on reducing energy consumption and environmental impact, without significantly sacrificing performance.
-
----
-
-## 📝 Project Description
-
-Green AI aims to make artificial intelligence development more environmentally friendly. In this project, we use Python to build and evaluate lightweight and energy-efficient models. The focus is on optimizing computational resources while maintaining a balance between performance and sustainability.
-
-The project explores techniques such as:
-- ✅ Training smaller and optimized models
-- ✅ Model pruning and quantization
-- ✅ Transfer learning to reduce training cost
-- ✅ Energy and carbon footprint tracking using specialized tools
-
-By applying these methods, we aim to show how AI can be made greener and more sustainable.
+Harnessing the power of **sustainable AI**, this project showcases how to build **energy-efficient machine learning models** in Python. The goal is to reduce the environmental footprint of AI without compromising model performance.
 
 ---
 
-## ⚙️ Technologies Used
+## 📝 Project Overview
 
-- Python 3.x  
-- NumPy, Pandas  
-- Scikit-learn / TensorFlow / PyTorch *(depending on your implementation)*  
-- Matplotlib / Seaborn  
-- [CodeCarbon](https://mlco2.github.io/codecarbon/) *(for energy usage tracking)*
+**Green AI** advocates for environmentally conscious AI development. This project emphasizes optimizing computational resources to make machine learning more sustainable. We implement various strategies to reduce energy usage, such as:
 
----
-📜 License
-This project is licensed under the [MIT License](LICENSE)
+- ✅ Building smaller, efficient models  
+- ✅ Applying model pruning and quantization  
+- ✅ Leveraging transfer learning to minimize training costs  
+- ✅ Monitoring energy and carbon footprint using tools like CodeCarbon  
 
----
-## 📌 Features
-
-- 🔋 Energy-efficient machine learning workflows  
-- 🌍 Carbon footprint estimation  
-- 🧠 Lightweight and optimized AI models  
-- 📊 Performance vs. sustainability comparisons
+By applying these techniques, we aim to demonstrate that high-performing AI can also be eco-friendly.
 
 ---
 
-🌍 Impact
--By focusing on Green AI, this project aims to:
--Reduce the environmental cost of training AI models
--Promote efficient use of computational resources
--Raise awareness of sustainable development in AI
+## 📊 Project Scope: Data Science & Machine Learning Tasks
 
+This project covers a wide range of machine learning workflows:
+
+- ✔️ **Classification**  
+- ✔️ **Regression**  
+- ✔️ **Clustering**  
+- ✔️ **Data Visualization**
+
+Each task includes:
+- Dataset acquisition and loading  
+- Data preprocessing  
+- Model training and optimization  
+- Performance evaluation and visualization  
+
+### 🔗 Datasets Used:
+- 🔥 Wildfire Prediction Dataset: [View on Kaggle](https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset)  
+- 🗑️ Waste Classification Dataset: [View on Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+
+---
+
+## ⚙️ Technologies & Libraries
+
+- **Programming Language**: Python 3.x  
+- **Libraries**:
+  - Data Handling: `NumPy`, `Pandas`  
+  - Machine Learning: `Scikit-learn`, `TensorFlow`, `PyTorch` *(as needed)*  
+  - Visualization: `Matplotlib`, `Seaborn`  
+  - Carbon Tracking: [`CodeCarbon`](https://mlco2.github.io/codecarbon/)
+
+---
+
+## 🚀 Key Features
+
+- 🔋 Energy-efficient ML model development  
+- 🌍 Real-time tracking of energy consumption and carbon emissions  
+- 🧠 Deployment of lightweight and optimized AI models  
+- 📊 Comparative insights on performance vs. environmental impact
+
+---
+
+## 🌍 Environmental Impact
+
+This project strives to:
+
+- 🌱 **Minimize the carbon cost** of AI training  
+- 🧑‍💻 **Encourage sustainable computing practices**  
+- 📣 **Promote awareness of Green AI principles** in the developer community  
+
+---
+
+## 🤝 Collaborators
+
+This project was created by:  
+- **Harshitamahant** [https://github.com/Harshitamahant]
+- **Divyanshuxoxo**[https://github.com/divyanshuxoxo]
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
